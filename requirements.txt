@@ -1,1 +1,12 @@
-
+# Basic requirements
+python-dotenv
+numpy
+openai
+transformers
+torch
+opencv-python
+flask
+scikit-learn
+soundfile
+speechrecognition
+pillow
