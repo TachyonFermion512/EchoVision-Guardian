@@ -33,5 +33,6 @@ python main.py
 
 ## 🖼️ Preview
 
-![EchoVision Screenshot](./assets/demo_images/screenshot.png)
+![EchoVision Screenshot](assets/demo_images/screenshot.png)
+
 
