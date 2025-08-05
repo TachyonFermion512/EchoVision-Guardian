@@ -1,1 +1,0 @@
-# Environmental scan / object detection
